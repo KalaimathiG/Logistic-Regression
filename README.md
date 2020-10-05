@@ -11,13 +11,13 @@
  
  Dataset has been imported and analysed , here are some of the interesting analysis.
  
- !(/FeaturesVsSpecies.png)
+ ![](/FeaturesVsSpecies.png)
  
- !(/WVsS.png)
+ ![](/WVsS.png)
  
  correlation between various features is analysed using hetmap.
  
- !(/corr.png)
+ ![](/corr.png)
  
  #Model building 
  Logistic Regression has been implemented using Sklearn
